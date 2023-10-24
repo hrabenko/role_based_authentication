@@ -1,0 +1,5 @@
+/backend/node_modules/
+/.idea/.gitignore
+/.idea/lab5.iml
+/.idea/modules.xml
+/.idea/vcs.xml
